@@ -1,6 +1,188 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: A&E (MOVIL)" tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg" group-title="CINE",Cine TV: A&E (MOVIL)
-http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/79
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: A&E Full HD (CO)" tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg" group-title="CINE",Cine TV: A&E Full HD (CO)
-http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/80
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: A&E Full HD (ARG)(Dual Audio)" tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg" group-title="CINE",Cine TV: A&E Full HD (ARG)(Dual Audio)
+#EXTINF:-1 tvg-id="" tvg-name="The Boys S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/83vFYTHtCqWwaDtZluSU8bmnFYG.jpg" group-title="THE BOYS",The Boys S01 E01
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/30842.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Boys S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1XzqWHBFvddrO2sazXzaCTtFEeA.jpg" group-title="THE BOYS",The Boys S01 E02
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/30843.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Boys S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mF7TK7LMbWhlLz1Q5M1662TiKvP.jpg" group-title="THE BOYS",The Boys S01 E03
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/30844.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Boys S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wq1ZX7GYEFhSttQoTFJ4WyqV22.jpg" group-title="THE BOYS",The Boys S01 E04
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/30845.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Boys S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ST4xchcR2s1JQUV23ryOBVrWbN.jpg" group-title="THE BOYS",The Boys S01 E05
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/30846.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Boys S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pqz0Xvf7gpXwagUoaHxBqmyv6D5.jpg" group-title="THE BOYS",The Boys S01 E06
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/30847.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Boys S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cx7dCZVzCX9pAyC6zE6lC6jkuyF.jpg" group-title="THE BOYS",The Boys S01 E07
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/30848.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Boys S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vNYs1oSMXa1V3KKWLPvtOy6UQWC.jpg" group-title="THE BOYS",The Boys S01 E08
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/30849.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Boys S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iqdh1aITkP4BicsZmQLQ7MDMo1z.jpg" group-title="THE BOYS",The Boys S02 E01
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/30850.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Boys S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m6LSiAimRiST07sC0vsUDITojT3.jpg" group-title="THE BOYS",The Boys S02 E02
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/30851.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Boys S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSJsyy1qqHvs1im4xGvP2w0MKms.jpg" group-title="THE BOYS",The Boys S02 E03
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/30852.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Boys S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6cAdAEomp2I0JwSYNcobAB1NIdm.jpg" group-title="THE BOYS",The Boys S02 E04
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/30853.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Boys S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pn5adU2bTuMvBUZoEx2qDmSS8dv.jpg" group-title="THE BOYS",The Boys S02 E05
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/30854.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Boys S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ZTRa0V3QFYX2ridnY9wh0FsvId.jpg" group-title="THE BOYS",The Boys S02 E06
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/30855.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Boys S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8OJpTYvdGaTkzxU9oZnx0TaTaOt.jpg" group-title="THE BOYS",The Boys S02 E07
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/30856.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Boys S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w44GW7Zv808V1nsr1NY6Y3I8r8B.jpg" group-title="THE BOYS",The Boys S02 E08
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/30857.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eeNYnyVdAGdBzVDCIspxlFHNAtb.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S01 E01
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6263.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1g3CuVBgFOOH12Sth6UjLInF2CK.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S01 E02
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6264.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gdN8uS5XrvmuMDHgoccPg7l9ZTC.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S01 E03
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6265.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fVjVylVNKoWENfT33mpB6fhuAFm.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S01 E04
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6266.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/MzfgLX9JNTKWVvWRFC2kgjB2xz.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S01 E05
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6267.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s8GYwVwdLtKI1bAVJnJ68SJOgaz.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S01 E06
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6268.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aj1VKYlk0FjLNH2ViWG7kzgsLT9.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S01 E07
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6269.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pwYRmXPu2MHXDYizfE9JNEUXi4A.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S01 E08
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6270.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qTy5ccl2GOAXENEMGjV9C2qTpqq.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S01 E09
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6271.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnszKhdRd7UUbRcTeeNuF2KVWsz.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S01 E10
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6272.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f9LzB7t7yTFkaLFzuj7zl11s0Uo.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S01 E11
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6273.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/skCS4v00DeeePf2hBYN3UFvAVlw.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S01 E12
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6274.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ql96ISN6nrRQsz9lxQ62zfFaH60.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S01 E13
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6275.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/izihXlq8haa5wTtFFII8XAkYuDV.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S01 E14
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6276.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuic2bVKE5BT66yYMtHiPZclCoG.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S01 E15
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6277.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tYKbqvmv0VEqD3BqJKqes09OXXt.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S01 E16
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6278.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6KABs1NArkaKKtUFiUjcLSm30LS.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S01 E17
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6279.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DxI3ECB5aMI0SScQvWttaqZz9V.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S01 E18
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6280.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjR2NpDAVmRWXAuV1lC553ZyQrl.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S02 E01
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6281.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Zx9JcW2xMU4yQoP1XllMgK3sdU.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S02 E02
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6282.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/30UtIcRk4lVhA7LvXYsM4cYvYfV.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S02 E03
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6283.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/76McCa1hrTQIxWK4wAGg93ViAA0.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S02 E04
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6284.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tNx2eyqe89VuwOdVO9uEkY27giR.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S02 E05
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6285.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3p5RJv4jKXslk9LIsf1ZVJWXQJ.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S02 E06
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6286.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mca06p8X304D4N9fsRoPfFY3MsI.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S02 E07
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6287.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7k0AYaJxys9k2M18oEAHQzdZK6s.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S02 E08
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6288.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9LMfoGDqSqMsNFp7t0ewbk4oN50.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S02 E09
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6289.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJnwSuT3rTE3FD4Isv14epGz6gD.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S02 E10
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6290.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZQtq2nq9KpBZfUKOXOZkZkzcnV.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S02 E11
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6291.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oFSrTKl2a5R3nfM3WPVUES5r29A.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S02 E12
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6292.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/47sASSrkQfJ5TbmPbla9z6cH2QE.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S02 E13
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6293.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S02 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r53Egw7b19g05Vf04jnmdxNB7XF.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S02 E14
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6294.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S02 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oUttc8Yz384YCsm98Mgh6y4v9DK.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S02 E15
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6295.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S02 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1lq8I58U9IxRpZYNDJTCQa4bWDK.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S02 E16
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6296.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S02 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/enwn2dhcf8LgAeXO2WyBztRXSM8.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S02 E17
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6297.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S02 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yqTwIiuCTjcdIyppV8MGqjWVJOj.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S02 E18
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/30267.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z83X5PQn4z0mx6TlOSsoIEvzdYc.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S03 E01
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6298.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tckW2kXaUbin3mSKvBhbsMgK5Q7.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S03 E02
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6299.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xM9NM136u1NUkHD1vMdPxfn5XCa.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S03 E03
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6300.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOjLyaf1CFrMNQG5EN22yKc3U2s.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S03 E04
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6301.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9qobQlMlKrNed6ejeuoV6LlRTB.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S03 E05
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6302.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/adtXbhCFfQ6x0pgUB1l5YfPhtOj.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S03 E06
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6303.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9sldAOBfQmZsXsYWPHzLwrOnKIC.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S03 E07
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6304.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l2lr119HgjtxJJOm3lezrdCFciJ.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S03 E08
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6305.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uNdE6iIceSkkY9wvBk58A3PSl5p.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S03 E09
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6306.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qUOtz9jbCsYg43XYonR92GgwuWI.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S03 E10
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6307.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRTrvo2RMz95TY2NV8LVOhojWmp.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S03 E11
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6308.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v1VVZEt7hO2dyQ8O1xXPwwqbcvM.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S03 E12
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6309.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zenYa5rbRJF7LxAnnvIoKB3erbN.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S03 E13
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6310.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S03 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xR00XdgbhNn6VALVJXqq46gYc2r.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S03 E14
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6311.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S03 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fmOtYFJ1fBJdCpRz3Gj7WsyUR1B.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S03 E15
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6312.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S03 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ulAq86H8sdSl3ZdZjtmRajspLRO.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S03 E16
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6313.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S03 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYH8ki5p0JXGzLab06cNNe4S08n.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S03 E17
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6314.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S03 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKB2ghhQcGp7KI62efRKGatWJ4R.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S03 E18
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6315.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S03 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rfpSklwHgBSEJXYeYjPco5SONFy.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S03 E19
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6316.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S03 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bbV4bHdzLZ7jp3z9aWvVLFPSAAu.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S03 E20
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/6317.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bUq4aNotfqlrZ2galZ6aWoE75pI.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S04 E01
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/45375.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oncm0Ae5dOAyjkseCZ8mPEh1Ejp.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S04 E02
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/45376.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ic5zBy0YQqxFKsby6uZaoepnFl.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S04 E03
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/45377.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bupCPJ08QBV0GsRwZOvFLga6G1d.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S04 E04
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/45378.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gvnj0kQL8U7XBEkEpzHvGBAiFt.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S04 E05
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/45379.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cUT8Ri3O6taiADvNtAGWTWo7Rev.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S04 E06
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/45380.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvNf1V5mlIpXuC6Iu5zT0eK0Wc4.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S04 E07
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/45381.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zR7TIsjaL9YrcLUMbVWC1OB2Cd5.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S04 E08
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/45382.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qmcLFjECfYc3KgZly7LzoAcvrGA.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S04 E09
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/45383.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbZAeZGKsUiobMMbQuE2cN0ICOR.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S04 E10
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/45385.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3sdkJoHUZWX7LzmSvtf19sD7DG.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S04 E11
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/45384.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S04 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3sdkJoHUZWX7LzmSvtf19sD7DG.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S04 E12
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/52115.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S04 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uyK2T4iqe5KfraV9jRjOZbSmLDW.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S04 E13
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/52117.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S04 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzFtXFFyoi6M7NJvbscJX5xAjGG.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S04 E14
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/52116.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S04 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgscjUNDrFFHHbbFkavLc2fAcu1.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S04 E15
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/52118.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S04 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zxkygcwq1rSI3YnNbiwOFeXftbC.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S04 E16
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/56422.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S04 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1HbbdnnxnalxWJ70NQLOwREu8oX.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S04 E17
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/56423.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S04 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tpwVPxZpogseQIlQ0xQ3rYZ2by8.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S04 E18
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/56424.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S04 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZ2fazdYSCUeyNZrIMYZwBq7szt.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S04 E19
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/56508.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S04 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mFkj1IyjFDhFmbUFnkmijrE4dK8.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S04 E20
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/58272.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Good Doctor S04 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5DlE7uIRetvlcmQUPk7HQFp22Fm.jpg" group-title="THE GOOD DOCTOR",The Good Doctor S04 E21
+http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/58273.mp4
